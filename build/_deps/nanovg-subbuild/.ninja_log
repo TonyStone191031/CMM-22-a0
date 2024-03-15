@@ -1,0 +1,11 @@
+# ninja log v5
+0	205	6680522230150401	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir	cbd71eb7a77449e5
+205	19551	6680522423599562	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download	1dd9342d7613276
+19551	19709	0	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update	b6b3da136b1977e1
+19709	19778	6680522425889570	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch	8c6e6efc5ca8cebd
+19779	19846	6680522426549628	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure	75dce1aa415837af
+19846	19917	6680522427259583	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build	67dd4201196868ac
+19917	19985	6680522427949571	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install	7000ec4756cf3960
+19985	20053	6680522428619600	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test	ef2717c978488100
+20053	20144	6680522429539593	CMakeFiles/nanovg-populate-complete	6e97e97166284756
+20053	20144	6680522429539593	nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-done	6e97e97166284756

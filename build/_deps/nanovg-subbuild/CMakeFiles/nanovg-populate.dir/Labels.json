@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/zhuof/OneDrive/ETHz/22FS/CMM_8/Assignments/a0-TonyStone191031/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nanovg-populate"
+		],
+		"name" : "nanovg-populate"
+	}
+}
